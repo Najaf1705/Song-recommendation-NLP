@@ -21,5 +21,4 @@ Using cosine similarity, the system compares the user's input with existing song
 
 
 ### Dataset Used
-1. million sons dataset(https://www.kaggle.com/datasets/joebeachcapital/57651-spotify-songs)
-2. [Kaggle Dataset 2](https://kaggle.com/dataset2)
+1. [Million sons dataset](https://www.kaggle.com/datasets/joebeachcapital/57651-spotify-songs)
